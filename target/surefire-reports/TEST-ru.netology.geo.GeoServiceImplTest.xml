@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="ru.netology.geo.GeoServiceImplTest" time="0.13" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="ru.netology.geo.GeoServiceImplTest" time="0.018" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.3.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -60,11 +60,11 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForLocalHost" time="0.055"/>
-  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForMoscowIp" time="0"/>
-  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForNewYorkIp" time="0"/>
-  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForRussia" time="0.006"/>
-  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForUsa" time="0.001"/>
+  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForRussia" time="0.013"/>
+  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForUsa" time="0"/>
   <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForOther" time="0"/>
-  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByCoordinates" time="0.068"/>
+  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByCoordinates" time="0.004"/>
+  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForLocalHost" time="0"/>
+  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForMoscowIp" time="0.001"/>
+  <testcase classname="ru.netology.geo.GeoServiceImplTest" name="ru.netology.geo.GeoServiceImplTest.testByIpForNewYorkIp" time="0"/>
 </testsuite>

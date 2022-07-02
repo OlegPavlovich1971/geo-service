@@ -60,6 +60,6 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ru.netology.i18n.LocalizationServiceImplTest" name="ru.netology.i18n.LocalizationServiceImplTest.testLocaleForRussia" time="0"/>
   <testcase classname="ru.netology.i18n.LocalizationServiceImplTest" name="ru.netology.i18n.LocalizationServiceImplTest.testLocaleForOther" time="0"/>
+  <testcase classname="ru.netology.i18n.LocalizationServiceImplTest" name="ru.netology.i18n.LocalizationServiceImplTest.testLocaleForRussia" time="0"/>
 </testsuite>
